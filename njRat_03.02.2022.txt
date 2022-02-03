@@ -1,0 +1,14 @@
+njRat 2022 | 03.02.2022 | Version 1.9
+
+************************************************************************************************************
+
+.zip > .iso > .exe
+
+.zip c1ecd8fbf326ed41cf0d21b631aeae9bcf9a2129331fba6f079527959274ae79
+.zip 263d2b7c09dbf2a03dcc6f171f397ab728fbf7b7a8fa0e25bd9c7b5bccce6a17
+.zip 242090d60cc0b725f61b1e7286ca2b1cb161e48cfd8a1b3f96e8f04a7c2effc6
+
+c2's
+
+legend4000.duckdns.org | 185.19.85.141:4000
+legend6700.duckdns.org | 194.5.98.31:6700
